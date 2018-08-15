@@ -7,7 +7,7 @@ from utils.utils import *
 from hparams import HyperParams as hp
 from dqn_agent import train_model
 from copy import deepcopy
-from ㄱminecraft_env import env
+from dqn.minecraft_env import env
 from memory import Memory
 import marlo
 import gym
